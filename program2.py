@@ -13,5 +13,6 @@ elif time >=21:00 and time <= 24:00:
     print ("полночь")
 elif time >=24:00 and time <= 6:00:
     print ("ночь")
+print ("bay")
     
     
